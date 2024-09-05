@@ -10,7 +10,7 @@ Well, I don't particularly want to make it public or anything...
 
 <h1 align="left">Skill</h1>
 
-Nothing.
+There is nothing.
 
 If I had to say, I would say Python and css.
 
