@@ -1,11 +1,10 @@
-<h1 align="left">👋 Hi! I'm mop-neko!</h1>
+<h1 align="left">👋 Hi! I'm mop neko!</h1>
 
 <h1 align="left">About me</h1>
 
 I am a student in Japan.
 
-Nothing in particular that I'm doing.
-Sometimes I make silly things.
+Nothing in particular that I'm doing. Sometimes I make silly things.
 
 Well, I don't particularly want to make it public or anything...
 
