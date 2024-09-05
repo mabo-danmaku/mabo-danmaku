@@ -22,3 +22,9 @@ If I had to say, I would say Python and css.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mabo-danmaku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h1 align="left">Social Media</h1>
+
+<p align="left">
+<a href="https://x.com/mabo_danmaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="" height="30" width="40" /></a>
+</p>
